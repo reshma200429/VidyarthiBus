@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609788860643",
+    "project_id": "vidyarthi-bus-81c94",
+    "storage_bucket": "vidyarthi-bus-81c94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609788860643:android:f06276fa3152719ca88dd6",
+        "android_client_info": {
+          "package_name": "com.example.vidyarthibus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JLnu7XpjAOuR14u2KWfTJ9G-z-rhO4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609788860643:android:c27b2a149926fb4ba88dd6",
+        "android_client_info": {
+          "package_name": "com.reshma.vidyarthibus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JLnu7XpjAOuR14u2KWfTJ9G-z-rhO4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
