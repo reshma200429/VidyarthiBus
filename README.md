@@ -57,6 +57,10 @@ Screenshots of the login screen, bus list, and admin panel will be added here.
 
 The application follows MVVM architecture with Firebase Realtime Database integration.
 
+## Security Notes
+
+The google-services.json file is excluded from the repository for security reasons.
+
 ## GitHub Repository
 
 [VidyarthiBus Repository](https://github.com/reshma200429/VidyarthiBus?utm_source=chatgpt.com)
