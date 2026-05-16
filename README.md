@@ -51,7 +51,17 @@ Students often face difficulty in tracking college buses and checking seat avail
 
 ## Screenshots
 
-Screenshots of the login screen, bus list, and admin panel will be added here.
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### Signup Screen
+![Signup Screen](screenshots/signup.png)
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Profile Screen
+![Profile Screen](screenshots/profile.png)
 
 ## Project Architecture
 
