@@ -53,6 +53,10 @@ Students often face difficulty in tracking college buses and checking seat avail
 
 Screenshots of the login screen, bus list, and admin panel will be added here.
 
+## Project Architecture
+
+The application follows MVVM architecture with Firebase Realtime Database integration.
+
 ## GitHub Repository
 
 [VidyarthiBus Repository](https://github.com/reshma200429/VidyarthiBus?utm_source=chatgpt.com)
