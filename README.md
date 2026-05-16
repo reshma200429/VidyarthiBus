@@ -49,6 +49,10 @@ Students often face difficulty in tracking college buses and checking seat avail
 - Dark mode support
 - Offline data caching
 
+## Screenshots
+
+Screenshots of the login screen, bus list, and admin panel will be added here.
+
 ## GitHub Repository
 
 [VidyarthiBus Repository](https://github.com/reshma200429/VidyarthiBus?utm_source=chatgpt.com)
