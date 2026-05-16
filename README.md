@@ -72,6 +72,10 @@ The application was tested using Android Emulator and physical Android devices t
 - Implementing admin functionality
 - Handling authentication and navigation
 
+## Conclusion
+
+VidyarthiBus provides an efficient solution for students to track college buses and check seat availability. The project demonstrates Android development skills using Kotlin, Jetpack Compose, and Firebase.
+
 ## GitHub Repository
 
 [VidyarthiBus Repository](https://github.com/reshma200429/VidyarthiBus?utm_source=chatgpt.com)
