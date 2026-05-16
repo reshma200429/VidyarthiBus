@@ -65,6 +65,13 @@ The google-services.json file is excluded from the repository for security reaso
 
 The application was tested using Android Emulator and physical Android devices to verify authentication, data synchronization, and user interface functionality.
 
+## Challenges Faced
+
+- Integrating Firebase Realtime Database
+- Managing state in Jetpack Compose
+- Implementing admin functionality
+- Handling authentication and navigation
+
 ## GitHub Repository
 
 [VidyarthiBus Repository](https://github.com/reshma200429/VidyarthiBus?utm_source=chatgpt.com)
