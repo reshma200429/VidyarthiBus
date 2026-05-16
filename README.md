@@ -41,6 +41,14 @@ Students often face difficulty in tracking college buses and checking seat avail
 4. Sync Gradle.
 5. Run the application on an emulator or Android device.
 
+## Future Enhancements
+
+- Real-time GPS tracking of buses
+- Push notifications for seat availability
+- Route optimization
+- Dark mode support
+- Offline data caching
+
 ## GitHub Repository
 
 [VidyarthiBus Repository](https://github.com/reshma200429/VidyarthiBus?utm_source=chatgpt.com)
