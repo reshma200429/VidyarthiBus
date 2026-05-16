@@ -63,6 +63,22 @@ Students often face difficulty in tracking college buses and checking seat avail
 ### Profile Screen
 ![Profile Screen](screenshots/profile.png)
 
+<h2>Screenshots</h2>
+
+<h3>Login Screen</h3>
+<img src="Login.jpeg" width="250"/>
+
+<h3>Sign Up Screen</h3>
+<img src="SignUp.jpeg" width="250"/>
+
+<h3>Home Page</h3>
+<img src="Home Page.jpeg" width="250"/>
+
+<h3>Profile Screen</h3>
+<img src="Profile.jpeg" width="250"/>
+
+<h3>Admin Panel</h3>
+<img src="AdminPanel.jpeg" width="250"/>
 ## Project Architecture
 
 The application follows MVVM architecture with Firebase Realtime Database integration.
