@@ -61,6 +61,10 @@ The application follows MVVM architecture with Firebase Realtime Database integr
 
 The google-services.json file is excluded from the repository for security reasons.
 
+## Testing
+
+The application was tested using Android Emulator and physical Android devices to verify authentication, data synchronization, and user interface functionality.
+
 ## GitHub Repository
 
 [VidyarthiBus Repository](https://github.com/reshma200429/VidyarthiBus?utm_source=chatgpt.com)
